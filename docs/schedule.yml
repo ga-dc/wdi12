@@ -1338,8 +1338,9 @@
        support: ""
     - "2:30PM - 5:00 PM":
        title: "Lab: Component Extravaganza"
-       lead: ""
+       lead: "Nick"
        support: ""
+       url: "https://github.com/ga-wdi-exercises/component-extravaganza"
     - "5:00 PM":
        title: "Due At 5: Lab"
        color: red
@@ -1388,46 +1389,42 @@
        url: "https://github.com/ga-wdi-exercises/todo-app-react"
        lead: ""
        support: ""
-    - "4:30PM - 5:00PM":
-       title: "Squad Scrum"
-       url: ""
-       lead: ""
-       support: ""
     - "5:00 PM":
        title: "Due At 5: Lab"
        color: red
        lead: ""
        support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Review / Code Challenge"
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
-       title: "React Router"
-       lead: ""
-       support: ""
-    - "2:30PM - 5:00 PM":
-       title: "React with Axios"
-       lead: "Nick"
-       support: ""
-  - day:
     - "9:00AM":
        title: "Due At 9: Homework"
        color: red
        url:
-         - React SPA Part 1: ""
-         - React SPA Part 2: ""
+         - React OMDB: "https://github.com/ga-wdi-exercises/react-omdb/"
        lead: ""
        support: ""
     - "9:00AM - 10:00AM":
-       title: "Slips"
-       url: "http://ga-dc.github.io/slips/"
+       title: "Project 4 Intro"
+       lead: "Adrian"
+       support: ""
+    - "10:00AM - 5:00PM":
+       title: "Project 4"
        lead: ""
        support: ""
-    - "10:00AM - 12:30PM":
-       title: "Computer Science"
-       url: "https://github.com/ga-wdi-lessons/cs-algorithms"
+       url: "https://github.com/ga-wdi-exercises/project4"
+    - "4:30PM - 5:00PM":
+       title: "Squad Scrum"
+       url: ""
+       lead: ""
+       support: ""
+  - day:
+    - "09:00AM - 5:30PM":
+       title: "Project 4"
+       url: ""
+       lead: ""
+       support: ""
+    - "12:20PM - 12:30PM":
+       title: "Outcomes Huddle"
+       url: ""
        lead: ""
        support: ""
     - "12:30PM - 1:30PM":
@@ -1435,17 +1432,8 @@
        url: ""
        lead: ""
        support: ""
-    - "2:30PM - 5:00 PM":
-       title: "TBA"
-       lead: ""
-       support: ""
   - day:
-    - "9:00AM - 10:00AM":
-       title: "Project 4 Intro"
-       url: "https://github.com/ga-wdi-exercises/project4"
-       lead: ""
-       support: ""
-    - "10:00AM - 12:30PM":
+    - "9:00AM - 12:30PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
@@ -1456,10 +1444,10 @@
        lead: "Nick"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
-       lead: ""
-       support: ""
+       title: "Canvas JS"
+       url: "https://github.com/ga-wdi-lessons/canvas"
+       lead: "Jesse"
+       support: "Adrian"
   - day:
     - "9:00AM":
        title: "Due At 9: Outcomes Homework"
@@ -1482,6 +1470,11 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UU13YkFnWjlzMklifGRlZmF1bHR8MGVmNzMyNjg1NmZiYmYxMTMwMGJjOWEzODczMTYyYmU"
        lead: "Adrian"
        support: ""
+    - "2:30PM - 4:00PM":
+       title: "D3"
+       url: "https://github.com/ga-wdi-lessons/d3-intro"
+       lead: "Adrian"
+       support: "Nick"
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
@@ -1513,15 +1506,10 @@
        url: "https://calendar.google.com/calendar/selfsched?sstoken=UUo1eHRJMnRQX3dMfGRlZmF1bHR8MmIwNmRlNjU3YTRkMWViYTMxMGIzNjdmN2UxNjMwM2M"
        lead: "Nick"
        support: ""
-    - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
-       lead: ""
-       support: ""
   - day:
-    - "9:00AM - 12:30PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
+    - "10:00AM - 12:30PM":
+       title: "Outcomes: Hiring Panel"
+       url: ""
        lead: ""
        support: ""
     - "1:30PM - 2:30PM":
@@ -1530,10 +1518,10 @@
        lead: "Adrian"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
-       lead: ""
-       support: ""
+       title: "Intro to React Native"
+       url: "https://github.com/ga-wdi-lessons/react-native-intro"
+       lead: "Nick"
+       support: "Adrian"
   - day:
     - "9:00AM - 12:30PM":
        title: "Project 4"
@@ -1546,8 +1534,8 @@
        lead: "Jesse"
        support: ""
     - "2:30PM - 5:00PM":
-       title: "Project 4"
-       url: "https://github.com/ga-wdi-exercises/project4"
+       title: "Custom Deployment"
+       url: ""
        lead: ""
        support: ""
   - day:
@@ -1556,13 +1544,18 @@
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
        support: ""
+    - "1:30PM - 2:30PM":
+       title: "Instructors AMA"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 12:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
        support: ""
-    - "2:00PM - 4:00PM":
+    - "1:30PM - 3:30PM":
        title: "Project 4 Presentations"
        url: "https://github.com/ga-wdi-exercises/project4#presentations"
        lead: ""
@@ -1576,6 +1569,11 @@
        url: "https://github.com/ga-dc/after-wdi"
        lead: ""
        support: ""
+    - "5:30PM - 7:00PM":
+       title: "Happy Hour"
+       url: ""
+       lead: ""
+       support: ""
   - day:
     - "9:00AM - 5:00PM":
        title: "Project 4"
@@ -1628,6 +1626,11 @@
     - "9:00AM - 5:00PM":
        title: "Project 4"
        url: "https://github.com/ga-wdi-exercises/project4"
+       lead: ""
+       support: ""
+    - "1:30PM - 2:30PM":
+       title: ""
+       url: ""
        lead: ""
        support: ""
   - day:
