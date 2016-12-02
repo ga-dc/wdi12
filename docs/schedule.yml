@@ -1555,17 +1555,22 @@
        url: "https://github.com/ga-wdi-exercises/project4"
        lead: ""
        support: ""
-    - "1:30PM - 3:30PM":
+    - "2:00PM - 3:30PM":
        title: "Project 4 Presentations"
        url: "https://github.com/ga-wdi-exercises/project4#presentations"
        lead: ""
        support: ""
+    - "3:30PM - 4:00PM":
+       title: "Feedback-Back"
+       url: ""
+       lead: ""
+       support: ""
     - "4:00PM - 4:30PM":
-       title: "Final Scrum, Feedback & Envelopes"
+       title: "Final Scrum"
        lead: ""
        support: ""
     - "4:30PM - 5:00PM":
-       title: "Life After WDI"
+       title: "Life After WDI, Feedback"
        url: "https://github.com/ga-dc/after-wdi"
        lead: ""
        support: ""
